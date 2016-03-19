@@ -193,7 +193,6 @@
 				TargetAttributes = {
 					48AE32C41C9D80BB0024231D = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = ET2263N9QA;
 					};
 					48AE32D81C9D80BD0024231D = {
 						CreatedOnToolsVersion = 7.2;
@@ -491,6 +490,7 @@
 				48AE32EF1C9D80BD0024231D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		48AE32F01C9D80BD0024231D /* Build configuration list for PBXNativeTarget "ivanGithubTestTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +499,7 @@
 				48AE32F21C9D80BD0024231D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		48AE32F31C9D80BD0024231D /* Build configuration list for PBXNativeTarget "ivanGithubTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +508,7 @@
 				48AE32F51C9D80BD0024231D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
